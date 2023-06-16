@@ -16,6 +16,8 @@ This project is a blogging platform developed using Django.
 
 * **Bootstrap**: Bootstrap is used in templates to create a responsive and attractive user interface.
 
+This project was built as part of my learning process, following the guidance of a popular Django tutorial by Corey Schafer available on YouTube
+
 ![1](https://github.com/mantzu134/django_project2/assets/25063550/04e57ef2-a6ab-4ad9-8d4b-cf25233a357b)
 ![2](https://github.com/mantzu134/django_project2/assets/25063550/46e1bae9-71cc-4564-8f50-e07146336918)
 ![4](https://github.com/mantzu134/django_project2/assets/25063550/6f6aa1a4-ef24-4424-8d9a-f4c4f52adb63)
